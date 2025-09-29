@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OliverMerlis
-- 👀 I’m interested in things, places, and people.
-- 🌱 I’m currently studying Computer Engineering at RIT
+- 👀 I’m interested in hardware and embedded software engineering.
+- 🌱 I’m currently studying Computer Engineering at RIT as an accelarated BS/MS Student
 
 <!---
 OliverMerlis/OliverMerlis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
